@@ -106,12 +106,6 @@ The analysis reveals steady business growth, driven primarily by certain categor
 
 ---
 
-##  Author
-
-**Selamawit Dereje**
-
----
-
 ##  Notes
 
 This project is part of a Data Science Bootcamp and demonstrates end-to-end data analysis using real-world data.
