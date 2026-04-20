@@ -1,5 +1,5 @@
 #  Superstore Business Insights Analysis
-
+open directly: https://colab.research.google.com/drive/1cdkAggQPbzPOLyFBG03ZM66LpXzYhpb5
 ##  Project Overview
 
 This project explores and analyzes the Superstore dataset using Python and Pandas. The goal is to extract meaningful business insights related to sales, profit, customer behavior, and regional performance.
